@@ -1,0 +1,15 @@
+{
+    "name": "codelust/laravel-usernxt",
+    "description": "A simple API interface for Laravel user management and related functionality.",
+    "require": {
+        "laravel/framework": "^5.5",
+        "dingo/api": "^0.10.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shyam Somanadh",
+            "email": "shyam@frontiernxt.com"
+        }
+    ]
+}
